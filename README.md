@@ -6,7 +6,7 @@ Este repositorio contiene la carpeta de trabajos practicos desarrollados en la m
 Se divide en cuatro tps:
 - TP01: Se desarrolla un ejemplo del juego tic-tac-toe utilizando algoritmos de inteligencia artificial como MINIMAX. Para mas informacion dirigirse a [TP01](./tp01/tictactoe/README.md).
 
-- TP02: ...
+- TP02: Se desarrolla el ejemplo de los caballeros y bribones. Para mas informacion dirigirse a [TP02](./tp02/knights/).
 
 - TP03: ...
 
